@@ -19,9 +19,9 @@ ________________________
 
 - What is logging
 - Why we need logging
-- Common formats
 - Server logging
-- Logging examples
+- Common logging formats
+- Real logging examples
 - Logging tools
 
 ---
