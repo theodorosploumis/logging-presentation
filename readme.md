@@ -1,5 +1,5 @@
 
-## Monitoring & Logging for web apps
+## Server logging for web apps
 
 ![Area chart](https://img.icons8.com/ios/250/eeeeee/area-chart.png)
 
