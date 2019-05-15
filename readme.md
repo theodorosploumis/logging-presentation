@@ -136,6 +136,6 @@ See [apache log formats](https://httpd.apache.org/docs/2.4/mod/mod_log_config.ht
 
 ### Thank you!
 
-Join [Serres Hackathon 2019](http://hackathon.serrestech.gr) 11 & 12 May 2019
+Join [Serres Hackathon 2019](http://hackathon.serrestech.gr) May 2019
 
 #### Questions?
